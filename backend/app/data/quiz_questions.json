@@ -1,0 +1,12 @@
+[
+  { "id": 1, "trait": "extraversion", "reverse": false, "text_ar": "أحب أن أكون محور الاهتمام في التجمعات." },
+  { "id": 2, "trait": "extraversion", "reverse": true,  "text_ar": "أفضّل قضاء وقتي وحدي بدل الأماكن المزدحمة." },
+  { "id": 3, "trait": "agreeableness", "reverse": false, "text_ar": "أهتم بمشاعر الآخرين وأحاول مساعدتهم دائماً." },
+  { "id": 4, "trait": "agreeableness", "reverse": true,  "text_ar": "أجادل مع الناس بسهولة ولا أتنازل عن رأيي." },
+  { "id": 5, "trait": "conscientiousness", "reverse": false, "text_ar": "أنظّم مهامي وألتزم بالمواعيد بدقة." },
+  { "id": 6, "trait": "conscientiousness", "reverse": true,  "text_ar": "أميل للفوضى وتأجيل الأمور." },
+  { "id": 7, "trait": "neuroticism", "reverse": false, "text_ar": "أشعر بالقلق أو التوتر في مواقف كثيرة." },
+  { "id": 8, "trait": "neuroticism", "reverse": true,  "text_ar": "أبقى هادئاً وواثقاً حتى في المواقف الصعبة." },
+  { "id": 9, "trait": "openness", "reverse": false, "text_ar": "أحب تجربة أفكار وأشياء جديدة وغريبة." },
+  { "id": 10, "trait": "openness", "reverse": true,  "text_ar": "أفضّل الطرق المألوفة والتقليدية على التجربة." }
+]

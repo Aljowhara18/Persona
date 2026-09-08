@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+@theme {
+  --font-poster-ar: "Lalezar", sans-serif;
+  --font-poster-en: "Anton", sans-serif;
+  --font-quote: "EB Garamond", serif;
+  --font-body: "Tajawal", sans-serif;
+
+  --color-void: #0c0b0a;
+  --color-void-soft: #17140f;
+  --color-panel: #1f1a14;
+  --color-paper: #ece3d3;
+  --color-mustard: #e0a72e;
+  --color-mustard-dark: #b8841c;
+  --color-brick: #c23c2e;
+  --color-brick-dark: #8f2c21;
+  --color-teal: #2f9c95;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-void);
+  color: var(--color-paper);
+  font-family: var(--font-body);
+  position: relative;
+}
+
+/* خامة نويز/حبيبات خفيفة تعطي إحساس بوستر سينمائي قديم */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.05;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+.font-poster {
+  font-family: var(--font-poster-ar);
+}
+
+.font-quote {
+  font-family: var(--font-quote);
+  direction: ltr;
+}
+
+.halftone {
+  background-image: radial-gradient(circle, rgba(236, 227, 211, 0.15) 1px, transparent 1.4px);
+  background-size: 6px 6px;
+}
+
+::selection {
+  background: var(--color-mustard);
+  color: var(--color-void);
+}

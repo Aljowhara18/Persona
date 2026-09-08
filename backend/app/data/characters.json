@@ -1,0 +1,727 @@
+[
+  {
+    "id": "tony-stark",
+    "name_ar": "توني ستارك",
+    "name_en": "Tony Stark",
+    "work": "Iron Man",
+    "type": "movie",
+    "scores": {
+      "extraversion": 0.374,
+      "neuroticism": 0.525,
+      "agreeableness": 0.319,
+      "conscientiousness": 0.434,
+      "openness": 0.627
+    },
+    "quotes": [
+      "I am Iron Man.",
+      "Genius, billionaire, playboy, philanthropist.",
+      "Sometimes you gotta run before you can walk.",
+      "I love you 3000.",
+      "If we can't protect the Earth, you can be d*mn sure we'll avenge it."
+    ],
+    "psychology": {
+      "origin": "توني فقد أباه هوارد ستارك بحادث سيارة وهو شاب، لكن الأهم أنه نشأ في ظل أب بارد ومنشغل بالعمل جعله يبحث دائماً عن إثبات نفسه. لاحقاً، تجربة الأسر والتعذيب في أفغانستان كانت الصدمة الحقيقية اللي غيّرت مساره بالكامل ودفعته لبناء الدرع الأول.",
+      "traits": [
+        "يستخدم الفكاهة والسخرية كدرع نفسي يمنع الآخرين من رؤية خوفه الحقيقي.",
+        "يعاني من قلق واضطراب ما بعد الصدمة (نوبات هلع) بعد أحداث نيويورك، لكنه يخفيها خلف الثقة الزائدة.",
+        "حاجته للسيطرة على كل شيء (يبني، يخطط، يراقب) هي رد فعل على شعوره بالعجز أثناء أسره.",
+        "يخاف من الفقد لدرجة تدفعه لاتخاذ قرارات متطرفة لحماية من يحب، حتى لو كانت خاطئة.",
+        "رغم غروره الظاهري، عنده حس مسؤولية عميق يجعله يضحي بنفسه في النهاية دون تردد."
+      ],
+      "conclusion": "توني ستارك شخص يبني الدروع — حرفياً ومجازياً — ليحمي نفسه من عالم شعر فيه بالعجز مرة، لكن رحلته الحقيقية هي تعلّمه إن القوة الحقيقية مو بالتحكم بكل شيء، بل بالثقة بالآخرين والتضحية من أجلهم."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+    "signature_trait": "neuroticism",
+    "signature_traits": [
+      "neuroticism",
+      "openness"
+    ]
+  },
+  {
+    "id": "michael-corleone",
+    "name_ar": "مايكل كورليوني",
+    "name_en": "Michael Corleone",
+    "work": "The Godfather",
+    "type": "movie",
+    "scores": {
+      "extraversion": 0.518,
+      "neuroticism": 0.543,
+      "agreeableness": 0.628,
+      "conscientiousness": 0.6,
+      "openness": 0.694
+    },
+    "quotes": [
+      "I'll make him an offer he can't refuse.",
+      "Keep your friends close, but your enemies closer.",
+      "It's not personal, Sonny. It's strictly business.",
+      "Never tell anybody outside the family what you're thinking again."
+    ],
+    "psychology": {
+      "origin": "مايكل كان الابن الوحيد اللي رفض الانخراط بأعمال العائلة الإجرامية، وحارب بالحرب العالمية الثانية كبطل، وكان يخطط لحياة شرعية بعيدة عن عالم أبيه. محاولة اغتيال والده كانت نقطة التحول اللي سحبته للداخل رغماً عنه.",
+      "traits": [
+        "يخفي مشاعره تماماً؛ وجهه بلا تعبير حتى في أصعب اللحظات، وهذا سلاحه الأساسي.",
+        "يتخذ قراراته ببرود شديد وتخطيط بعيد المدى، حتى لو كانت قرارات دموية.",
+        "الولاء للعائلة عنده مطلق ويبرر لنفسه أي فعل طالما كان \"من أجل العائلة\".",
+        "كلما حاول حماية من يحب، ابتعد عنهم أكثر — مفارقة مأساوية بشخصيته.",
+        "تحول تدريجي: بدأ رافضاً للعنف، وانتهى أكثر قسوة من أبيه نفسه."
+      ],
+      "conclusion": "مايكل كورليوني مأساة رجل حاول الهروب من قدره فوقع فيه بالضبط بالشكل اللي كان يخاف منه — التحول من الابن \"النظيف\" إلى الأب الذي يخسر كل من حوله بحثاً عن السيطرة."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+    "signature_trait": "conscientiousness",
+    "signature_traits": [
+      "conscientiousness",
+      "agreeableness"
+    ]
+  },
+  {
+    "id": "ellen-ripley",
+    "name_ar": "إلين ريبلي",
+    "name_en": "Ellen Ripley",
+    "work": "Alien",
+    "type": "movie",
+    "scores": {
+      "extraversion": 0.409,
+      "neuroticism": 0.558,
+      "agreeableness": 0.424,
+      "conscientiousness": 0.489,
+      "openness": 0.647
+    },
+    "quotes": [
+      "Get away from her, you b*tch!",
+      "I say we take off and nuke the entire site from orbit. It's the only way to be sure.",
+      "You still don't understand what you're dealing with, do you?"
+    ],
+    "psychology": {
+      "origin": "ريبلي نجت من كارثة الـ Nostromo لتكتشف إنها كانت بالسبات لـ57 سنة، وإن ابنتها ماتت بالعمر خلال غيابها. هذا الفقد غير القابل للتعويض شكّل دافعها اللاحق للحماية الشرسة لكل من تعتبرهم بحاجة لها.",
+      "traits": [
+        "تتحول غريزة الأمومة المكبوتة (فقدان ابنتها) لدافع حماية عنيف تجاه نيوت، الطفلة اليتيمة.",
+        "تثق بحدسها وملاحظتها الدقيقة أكثر من الأوامر الرسمية أو \"الخبراء\".",
+        "تتحمل الخوف وتتصرف رغماً منه بدل ما تنتظر لين يزول — شجاعة عملية مو غياب خوف.",
+        "عدم ثقتها بالمؤسسات نابع من خيانتها المتكررة لها رغم تحذيراتها المتكررة.",
+        "تتحول من ناجية سلبية بالفيلم الأول إلى مقاتلة استباقية بالثاني — نمو نفسي واضح مبني على صدمة."
+      ],
+      "conclusion": "ريبلي مثال على كيف يتحول الفقد إلى قوة — الأمومة اللي حُرمت منها ما ماتت، بس تغيّر شكلها لتصبح درعاً تحمي فيه كل من يحتاجها."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "signature_trait": "neuroticism",
+    "signature_traits": [
+      "neuroticism",
+      "openness"
+    ]
+  },
+  {
+    "id": "the-joker",
+    "name_ar": "الجوكر",
+    "name_en": "The Joker",
+    "work": "The Dark Knight",
+    "type": "movie",
+    "scores": {
+      "extraversion": 0.406,
+      "neuroticism": 0.668,
+      "agreeableness": 0.514,
+      "conscientiousness": 0.314,
+      "openness": 0.685
+    },
+    "quotes": [
+      "Why so serious?",
+      "It's not about money, it's about sending a message.",
+      "I'm an agent of chaos.",
+      "You either die a hero or live long enough to see yourself become the villain."
+    ],
+    "psychology": {
+      "origin": "الجوكر بنسخة نولان يرفض إعطاء قصة أصل ثابتة — يروي أكثر من رواية مختلفة عن ندوبه، وهذا بحد ذاته اختيار نفسي: هو لا يريد أن يُفهم أو يُصنّف، لأن وجود \"سبب\" يجعله قابلاً للتفسير والتوقع، وهو يرفض هذا تماماً.",
+      "traits": [
+        "لا يتصرف بدافع مصلحة شخصية؛ هدفه إثبات إن النظام الأخلاقي عند الجميع هش وقابل للانهيار.",
+        "يخطط بذكاء استثنائي لكنه يقدم نفسه كفوضوي عشوائي — تناقض متعمد يربك خصومه.",
+        "لا يخاف الموت ولا يقدّر حياته أو حياة غيره، وهذا يمنحه حرية تصرف يفتقدها أي شخص \"عاقل\".",
+        "يستمتع باختبار حدود الآخرين الأخلاقية أكثر من استمتاعه بالفوضى نفسها.",
+        "غياب أي دافع مادي أو شخصي واضح يجعله أخطر من أي شرير تقليدي عنده هدف يمكن توقعه."
+      ],
+      "conclusion": "الجوكر مو شخصية بمعنى تقليدي بقدر ما هو فكرة — مرآة تعكس هشاشة النظام الأخلاقي عند الآخرين، وغياب قصته الواضحة هو بالضبط ما يجعله مخيف."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "signature_trait": "neuroticism",
+    "signature_traits": [
+      "neuroticism",
+      "openness"
+    ]
+  },
+  {
+    "id": "forrest-gump",
+    "name_ar": "فورست غامب",
+    "name_en": "Forrest Gump",
+    "work": "Forrest Gump",
+    "type": "movie",
+    "scores": {
+      "extraversion": 0.489,
+      "neuroticism": 0.422,
+      "agreeableness": 0.332,
+      "conscientiousness": 0.37,
+      "openness": 0.541
+    },
+    "quotes": [
+      "Life is like a box of chocolates, you never know what you're gonna get.",
+      "Stupid is as stupid does.",
+      "I'm not a smart man, but I know what love is.",
+      "Momma always said, you've got to put the past behind you before you can move on."
+    ],
+    "psychology": {
+      "origin": "نشأ فورست بساق مقوّسة وذكاء أقل من المعدل، لكن أمه رفضت تماماً أن يشعر إنه \"مختلف\" أو محدود، وزرعت فيه قيم بسيطة وثابتة (الولاء، اللطف، الإيمان) بدل التعقيد الفكري.",
+      "traits": [
+        "لا يحلل المواقف الاجتماعية بعمق، فيتصرف بصدق وبساطة تامة بدل الحسابات المعقدة اللي يعملها أغلب الناس.",
+        "ولاؤه لمن يحب (جيني، الملازم دان، بوبا) غير مشروط ولا يتزعزع بأي ظرف.",
+        "ينفّذ الوعود حرفياً ومهما طال الوقت، لأن الالتزام عنده مطلق ولا مساحة فيه للتفاوض.",
+        "لا يحمل ضغينة تجاه من يؤذيه، لأن عقله ببساطة لا \"يخزّن\" الغضب بالطريقة اللي يخزنها الآخرون.",
+        "نجاحاته الكبيرة كلها جاءت من كونه يفعل الشيء الصحيح بلا تردد، لا من طموح مخطط له."
+      ],
+      "conclusion": "فورست غامب دليل على إن البساطة والصدق العاطفي ممكن يوصلوا أبعد من الذكاء والحسابات المعقدة — شخصيته تتحدى فكرة إن النجاح لازم يجي من التعقيد."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/Cw4hIUIAmSYfK9QfaUW5igp9La.jpg",
+    "signature_trait": "extraversion",
+    "signature_traits": [
+      "extraversion",
+      "openness"
+    ]
+  },
+  {
+    "id": "amelie-poulain",
+    "name_ar": "أميلي بولين",
+    "name_en": "Amélie Poulain",
+    "work": "Amélie",
+    "type": "movie",
+    "scores": {
+      "extraversion": 0.517,
+      "neuroticism": 0.556,
+      "agreeableness": 0.529,
+      "conscientiousness": 0.396,
+      "openness": 0.54
+    },
+    "quotes": [
+      "I like to notice small things nobody else pays attention to.",
+      "I decided to help people find little bits of happiness they didn't know they were missing."
+    ],
+    "psychology": {
+      "origin": "أميلي عاشت طفولة معزولة بسبب تشخيص خاطئ لحالة قلبها خلّى والدها يمنعها من المدرسة والاختلاط الطبيعي، فطورت عالم داخلي غني من الخيال بدل العلاقات الحقيقية.",
+      "traits": [
+        "تفضّل الأفعال غير المباشرة (ترتيب مفاجآت خفية للغرباء) على المواجهة العاطفية المباشرة.",
+        "عندها رهاب حقيقي من الرفض، فتهرب من أي لحظة قد تكشف مشاعرها الفعلية لشخص تحبه.",
+        "تلاحظ تفاصيل دقيقة بالعالم من حولها بحساسية عالية جداً تعكس طفولتها المعزولة.",
+        "تجد سعادتها الحقيقية في إسعاد الآخرين سراً أكثر من أي إنجاز شخصي مباشر لها.",
+        "رحلتها بالفيلم هي تعلّمها التدريجي إنها تستحق أن \"تُرى\" مباشرة، مو بس أن ترى الآخرين من بعيد."
+      ],
+      "conclusion": "أميلي بولين شخصية بنت عالمها الخاص كحل لعزلة مبكرة، ورحلتها الحقيقية هي الخروج من هذا العالم الآمن نحو مخاطرة التواصل الإنساني المباشر."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg",
+    "signature_trait": "extraversion",
+    "signature_traits": [
+      "extraversion",
+      "neuroticism"
+    ]
+  },
+  {
+    "id": "walter-white",
+    "name_ar": "والتر وايت",
+    "name_en": "Walter White",
+    "work": "Breaking Bad",
+    "type": "series",
+    "scores": {
+      "extraversion": 0.44,
+      "neuroticism": 0.441,
+      "agreeableness": 0.438,
+      "conscientiousness": 0.457,
+      "openness": 0.513
+    },
+    "quotes": [
+      "I am the one who knocks.",
+      "Say my name.",
+      "I did it for me. I liked it. I was good at it.",
+      "Chemistry is the study of change."
+    ],
+    "psychology": {
+      "origin": "والتر وايت رجل ذكي جداً، لكنه شعر طوال حياته أنه لم يأخذ المكانة والتقدير اللي يستحقهما، وهذا الإحساس المكبوت بالغبن كان يكبر بصمت لسنوات طويلة قبل أحداث القصة.",
+      "traits": [
+        "لديه كبرياء (Ego) كبير جداً، ويكره بشدة أن يشعر بالضعف أو أنه يعتمد على الآخرين.",
+        "عندما أُصيب بالسرطان، بدأ بصناعة المخدرات بحجة تأمين مستقبل عائلته مادياً.",
+        "مع مرور الوقت، لم يعد المال هو الدافع الحقيقي؛ أصبح الدافع الأساسي هو السلطة والسيطرة وإثبات أنه الأفضل.",
+        "كلما نجح أكثر، زاد غروره وأصبح أكثر قسوة واستعداداً لتبرير أفعاله الأكثر وحشية.",
+        "في النهاية يعترف بنفسه أن ما فعله كان أيضاً لأنه أعجبه شعور القوة، وليس فقط من أجل عائلته كما كان يدّعي."
+      ],
+      "conclusion": "والتر وايت ليس شريراً منذ البداية، لكنه شخص سمح لكبريائه وطموحه المكبوت أن يسيطرا عليه تدريجياً حتى تحوّل إلى شخص مختلف تماماً. رحلته هي قصة كيف يمكن للغرور والرغبة في السيطرة أن يغيّرا الإنسان جذرياً."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/anFx9aTOOYqgS3v7x3R84Kz67ly.jpg",
+    "signature_trait": "conscientiousness",
+    "signature_traits": [
+      "conscientiousness",
+      "extraversion"
+    ]
+  },
+  {
+    "id": "don-draper",
+    "name_ar": "دون دريبر",
+    "name_en": "Don Draper",
+    "work": "Mad Men",
+    "type": "series",
+    "scores": {
+      "extraversion": 0.394,
+      "neuroticism": 0.406,
+      "agreeableness": 0.409,
+      "conscientiousness": 0.406,
+      "openness": 0.579
+    },
+    "quotes": [
+      "If you don't like what's being said, change the conversation.",
+      "I don't think about you at all.",
+      "Nostalgia is delicate but potent."
+    ],
+    "psychology": {
+      "origin": "دون دريبر ولد باسم ديك ويتمان لأم توفيت أثناء ولادته، ونشأ بفقر مع أب عنيف ولاحقاً بمنزل دعارة زوجة أبيه. أثناء حرب كوريا، سرق هوية الضابط الحقيقي \"دون دريبر\" بعد مقتله وتخلّى عن ماضيه بالكامل.",
+      "traits": [
+        "بنى هوية كاملة مزيفة والحفاظ عليها يستهلك معظم طاقته النفسية، فيعيش برعب دائم من انكشافه.",
+        "يبيع للناس \"شعور\" مثالي بالإعلانات لأنه بالضبط ما يفتقده هو شخصياً في حياته الحقيقية.",
+        "يهرب جسدياً وعاطفياً كلما اقترب أحد من معرفة حقيقته.",
+        "يكرر نمط الهجر اللي عاشه بطفولته على من حوله دون وعي كامل منه.",
+        "لحظات صدقه النادرة تكشف رجل يتوق للاتصال الحقيقي لكنه لا يعرف كيف يحافظ عليه."
+      ],
+      "conclusion": "دون دريبر هو الهوية المصطنعة اللي أصبحت سجناً — كل نجاحه المهني مبني على قدرته على الاختباء، وهذا بالضبط ما يمنعه من أي علاقة حقيقية مستقرة."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/7v8iCNzKFpdlrCMcqCoJyn74Nsa.jpg",
+    "signature_trait": "openness",
+    "signature_traits": [
+      "openness",
+      "agreeableness"
+    ]
+  },
+  {
+    "id": "michael-scott",
+    "name_ar": "مايكل سكوت",
+    "name_en": "Michael Scott",
+    "work": "The Office",
+    "type": "series",
+    "scores": {
+      "extraversion": 0.461,
+      "neuroticism": 0.612,
+      "agreeableness": 0.492,
+      "conscientiousness": 0.479,
+      "openness": 0.539
+    },
+    "quotes": [
+      "I'm not superstitious, but I am a little stitious.",
+      "Would I rather be feared or loved? Easy. Both.",
+      "I am Beyoncé, always."
+    ],
+    "psychology": {
+      "origin": "تلمح أحداث المسلسل أن مايكل عانى من طفولة اجتماعية صعبة ونشأ يشعر بالغرابة والعزلة عن أقرانه، وهذا خلق فيه حاجة دائمة ومبالغ فيها لأن يكون محبوباً ومقبولاً من أي مجموعة ينتمي لها.",
+      "traits": [
+        "يعتبر مكتبه \"عائلته البديلة\" ويبذل جهد مبالغ فيه للحفاظ على هذا الشعور الجماعي.",
+        "يتصرف بطفولية أحياناً لأنه لا يتحمل لحظات الصمت أو الجدية الطويلة.",
+        "حساسيته المفرطة للرفض تجعله يبالغ برد فعله لأي انتقاد بسيط.",
+        "كرمه الحقيقي تجاه موظفيه، رغم فشله كمدير أحياناً، ينبع من حاجته الصادقة لرؤيتهم سعداء.",
+        "كل قرار خاطئ يتخذه تقريباً مصدره نفس الدافع: الخوف من أن يكون غير محبوب أو منسي."
+      ],
+      "conclusion": "مايكل سكوت وراء كل نكتة غير لائقة وقرار متهور، رجل وحيد يبحث بيأس عن الانتماء، وحوّل مكتبه لعالمه الاجتماعي البديل الوحيد."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/7DJKHzAi83BmQrWLrYYOqcoKfhR.jpg",
+    "signature_trait": "neuroticism",
+    "signature_traits": [
+      "neuroticism",
+      "conscientiousness"
+    ]
+  },
+  {
+    "id": "daenerys-targaryen",
+    "name_ar": "دينيريس تارغاريان",
+    "name_en": "Daenerys Targaryen",
+    "work": "Game of Thrones",
+    "type": "series",
+    "scores": {
+      "extraversion": 0.556,
+      "neuroticism": 0.467,
+      "agreeableness": 0.604,
+      "conscientiousness": 0.502,
+      "openness": 0.692
+    },
+    "quotes": [
+      "I will take what is mine with fire and blood.",
+      "I am not going to stop the wheel. I'm going to break the wheel.",
+      "Dracarys."
+    ],
+    "psychology": {
+      "origin": "دينيريس ولدت بالمنفى بعد سقوط عائلتها، وباعها أخوها زواجاً قسرياً وهي مراهقة. نجاتها من كل هذا شكّلت هويتها كـ\"الناجية اللي لا تُكسر\"، لكن نفس هذه التجربة زرعت فيها خوف عميق من الضعف والخضوع مرة ثانية.",
+      "traits": [
+        "تربط قيمتها الذاتية بشكل كامل بفكرة \"القدر\" و\"الحق الإلهي بالعرش\"، فأي تهديد لهذا يهدد هويتها بالكامل.",
+        "تحرر المستضعفين بحماس شديد لأنها ترى نفسها فيهم حرفياً — نجت هي من نفس الاستعباد.",
+        "تتعامل بقسوة متزايدة مع كل من تعتبره خيانة، لأن الخيانة تعيد لها صدمة أخيها وزواجها القسري.",
+        "عزلتها المتصاعدة، فقدان مستشاريها وأحبتها وتنانينها، تزيد اعتمادها على القوة كوسيلة أمان وحيدة.",
+        "التحول للطغيان بنهايتها مو انقلاب مفاجئ، بل تراكم بطيء لخوف وفقد ما تمت معالجته نفسياً أبداً."
+      ],
+      "conclusion": "دينيريس تارغاريان مثال مأساوي لناجية تحولت تجربتها في النجاة إلى نفس أنماط القوة والسيطرة اللي حاولت الهروب منها — الضحية اللي أصبحت أشبه بمن آذوها."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+    "signature_trait": "extraversion",
+    "signature_traits": [
+      "extraversion",
+      "agreeableness"
+    ]
+  },
+  {
+    "id": "eleven",
+    "name_ar": "إليفن",
+    "name_en": "Eleven",
+    "work": "Stranger Things",
+    "type": "series",
+    "scores": {
+      "extraversion": 0.432,
+      "neuroticism": 0.556,
+      "agreeableness": 0.48,
+      "conscientiousness": 0.51,
+      "openness": 0.728
+    },
+    "quotes": [
+      "Friends don't lie.",
+      "I'm not normal.",
+      "Mouth breather."
+    ],
+    "psychology": {
+      "origin": "نشأت إليفن بمختبر حكومي، خضعت لتجارب قاسية منذ الطفولة، وعُزلت تماماً عن أي تواصل اجتماعي طبيعي حتى سن الثانية عشرة تقريباً.",
+      "traits": [
+        "تفتقر لمهارات اجتماعية أساسية لأنها ببساطة لم تتعلمها بالطفولة، مثل أغلب الأطفال العاديين.",
+        "ولاؤها وحبها لعائلتها المُختارة (هوبر، الأصدقاء) شديد جداً لأنها تجربتها الأولى بالانتماء.",
+        "تستخدم قدراتها الخارقة كوسيلة حماية لمن تحب، لأنها الطريقة الوحيدة اللي تعرف فيها كيف \"تكون مفيدة\".",
+        "أي تهديد بفقدان عائلتها الجديدة يستحضر فيها صدمة العزلة الأصلية بشكل مضاعف.",
+        "نموها العاطفي عبر المسلسل هو تعلّمها التدريجي للمشاعر الإنسانية العادية اللي حُرمت منها بالطفولة."
+      ],
+      "conclusion": "إليفن قصة طفلة حُرمت من كل شيء إنساني عادي ثم أُعطيت فرصة لتتعلمه متأخرة — وقوتها الخارقة أقل أهمية من رحلتها لتصبح إنسانة طبيعية بمشاعر طبيعية."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+    "signature_trait": "openness",
+    "signature_traits": [
+      "openness",
+      "conscientiousness"
+    ]
+  },
+  {
+    "id": "sheldon-cooper",
+    "name_ar": "شيلدون كوبر",
+    "name_en": "Sheldon Cooper",
+    "work": "The Big Bang Theory",
+    "type": "series",
+    "scores": {
+      "extraversion": 0.496,
+      "neuroticism": 0.492,
+      "agreeableness": 0.556,
+      "conscientiousness": 0.487,
+      "openness": 0.615
+    },
+    "quotes": [
+      "I'm not crazy, my mother had me tested.",
+      "Bazinga!",
+      "That's my spot."
+    ],
+    "psychology": {
+      "origin": "نشأ شيلدون ببيت مضطرب (أب يعاني من إدمان الكحول، بيئة غير مستقرة)، وكطفل عبقري تعرض للتنمر المستمر من محيطه لأنه مختلف تماماً عن أقرانه.",
+      "traits": [
+        "يبني روتين صارم وقواعد ثابتة لكل شيء لأن هذا يمنحه شعور بالسيطرة كان يفتقده تماماً بطفولته الفوضوية.",
+        "يجد صعوبة حقيقية بفهم الإشارات الاجتماعية غير المباشرة، فيتعامل بحرفية ومباشرة قد تبدو قاسية للآخرين.",
+        "تفوقه العلمي كان آلية دفاع مبكرة أثبت فيها لنفسه وللآخرين قيمته رغم التنمر اللي تعرض له.",
+        "علاقاته القليلة العميقة تكشف تدريجياً قدرته على التعلق رغم صعوبته بالتعبير عنه.",
+        "تمسكه الشديد بالقواعد والعدالة الحرفية هو طريقته لفهم عالم يراه فوضوي وغير منطقي."
+      ],
+      "conclusion": "شيلدون كوبر يبني نظام صارم من القواعد ليتعامل مع عالم شعر فيه دائماً بالغربة، وتحت هذا الجليد الظاهري يوجد شخص يتعلم ببطء كيف يقترب من الآخرين بطريقته الخاصة."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/euKFiO5M125rpngFRBbSW83beeI.jpg",
+    "signature_trait": "agreeableness",
+    "signature_traits": [
+      "agreeableness",
+      "extraversion"
+    ]
+  },
+  {
+    "id": "elizabeth-bennet",
+    "name_ar": "إليزابيث بينيت",
+    "name_en": "Elizabeth Bennet",
+    "work": "Pride and Prejudice",
+    "type": "book",
+    "scores": {
+      "extraversion": 0.486,
+      "neuroticism": 0.447,
+      "agreeableness": 0.502,
+      "conscientiousness": 0.484,
+      "openness": 0.645
+    },
+    "quotes": [
+      "I am only resolved to act in that manner which will constitute my own happiness.",
+      "My courage always rises with every attempt to intimidate me.",
+      "I could easily forgive his pride, if he had not mortified mine."
+    ],
+    "psychology": {
+      "origin": "إليزابيث الابنة الثانية من خمس بنات بعائلة مهددة مالياً بسبب قوانين الإرث، وأم مهووسة بتزويج بناتها بأي ثمن. هذا الضغط الاجتماعي المستمر شكّل ذكاءها الدفاعي الساخر كوسيلة حماية.",
+      "traits": [
+        "تستخدم الذكاء اللاذع والسخرية كدرع ضد مجتمع يحكم على النساء بمعيار الزواج فقط.",
+        "تحكم على الناس بسرعة من الانطباع الأول (تحيّزها الشهير)، وتحتاج وقت طويل لتغيّر رأيها حتى مع الأدلة.",
+        "ترفض الزواج المصلحي رغم الضغط المالي على عائلتها، لأنها تقدّر احترامها لنفسها فوق الأمان المادي.",
+        "كبرياؤها الشخصي يجعلها تسيء فهم دارسي لفترة طويلة لأنه جرح غرورها قبل ما تعرفه.",
+        "نموها الحقيقي بالقصة هو تعلّمها إن الانطباع الأول والحكم السريع ممكن يخدعانها تماماً."
+      ],
+      "conclusion": "إليزابيث بينيت شخصية بنت ذكاءها كدرع ضد عالم يحاصر خياراتها، ورحلتها هي تعلّم التوازن بين الثقة بحدسها ومراجعته عند الحاجة."
+    },
+    "cover_url": "https://covers.openlibrary.org/b/id/14348537-L.jpg",
+    "signature_trait": "extraversion",
+    "signature_traits": [
+      "extraversion",
+      "openness"
+    ]
+  },
+  {
+    "id": "jay-gatsby",
+    "name_ar": "جاي غاتسبي",
+    "name_en": "Jay Gatsby",
+    "work": "The Great Gatsby",
+    "type": "book",
+    "scores": {
+      "extraversion": 0.545,
+      "neuroticism": 0.461,
+      "agreeableness": 0.387,
+      "conscientiousness": 0.442,
+      "openness": 0.587
+    },
+    "quotes": [
+      "Can't repeat the past? Why of course you can.",
+      "I knew that when I kissed this girl, I was forever wed to her.",
+      "So we beat on, boats against the current, borne back ceaselessly into the past."
+    ],
+    "psychology": {
+      "origin": "جاي غاتسبي وُلد جيمس غاتز، ابن مزارعين فقراء، أعاد اختراع هويته بالكامل بعد وقوعه بحب ديزي وهو جندي فقير، وبنى ثروة ضخمة بطرق غير مشروعة لهدف واحد فقط: استعادتها.",
+      "traits": [
+        "يعيش بحالة إنكار مستمرة لمرور الزمن؛ يؤمن حرفياً إنه يقدر \"يعيد الماضي\" لو خطط بما يكفي.",
+        "كل قرار بحياته، الثروة والقصر والحفلات، وسيلة لهدف واحد وحيد: إثبات جدارته أمام ديزي.",
+        "يبني صورة مثالية عن ديزي بخياله أكبر من الشخص الحقيقي، فلا يرى تناقضاتها أو أنانيتها الفعلية.",
+        "عزلته الحقيقية وسط مئات الضيوف بحفلاته تكشف إن كل هذا مجرد وسيلة، لا غاية بحد ذاتها.",
+        "رفضه القبول إن ديزي تغيّرت خلال خمس سنوات يعكس عجزه عن مواجهة أي حقيقة تهدد حلمه."
+      ],
+      "conclusion": "غاتسبي مأساة رجل حوّل حباً قديماً إلى مشروع حياة كامل، ورفض الاعتراف إن الماضي اللي يطارده ما عاد موجود أصلاً — الحلم أهم عنده من الواقع نفسه."
+    },
+    "cover_url": "https://covers.openlibrary.org/b/id/10590366-L.jpg",
+    "signature_trait": "extraversion",
+    "signature_traits": [
+      "extraversion",
+      "conscientiousness"
+    ]
+  },
+  {
+    "id": "sherlock-holmes",
+    "name_ar": "شيرلوك هولمز",
+    "name_en": "Sherlock Holmes",
+    "work": "Sherlock Holmes",
+    "type": "book",
+    "scores": {
+      "extraversion": 0.418,
+      "neuroticism": 0.423,
+      "agreeableness": 0.507,
+      "conscientiousness": 0.47,
+      "openness": 0.528
+    },
+    "quotes": [
+      "It is a capital mistake to theorize before one has data.",
+      "Elementary, my dear Watson.",
+      "When you have eliminated the impossible, whatever remains, however improbable, must be the truth."
+    ],
+    "psychology": {
+      "origin": "تصف الروايات شيرلوك كعقل استثنائي اختار عمداً قمع مشاعره لأنه يعتبرها \"بيانات غير موثوقة\" تعيق التفكير المنطقي الصافي، وهذا خياره الواعي أكثر من كونه عجز فطري.",
+      "traits": [
+        "يرى المشاعر كضجيج يشوّش الاستدلال المنطقي، فيتعامل معها بازدراء ظاهري.",
+        "يعاني من الملل الشديد لدرجة اللجوء لمواد مخدرة عندما لا يوجد لغز يشغل عقله.",
+        "عزلته الاجتماعية اختيار واعٍ أكثر من كونها عجز، لأنه يعتبر أغلب البشر أبطأ ذهنياً منه.",
+        "علاقته النادرة العميقة مع واطسون تكشف حاجة حقيقية للاتصال يخفيها خلف برودة ظاهرية.",
+        "ثقته المطلقة بقدراته أحياناً تقوده لأخطاء لأنه يقلل من قيمة الحدس الإنساني العادي."
+      ],
+      "conclusion": "شيرلوك هولمز رجل اختار العقل على القلب كآلية دفاع وأسلوب حياة، لكن لحظاته النادرة من الدفء تكشف إنسان يخفي وحدة عميقة خلف قناع المنطق الصارم."
+    },
+    "cover_url": "https://covers.openlibrary.org/b/id/6717853-L.jpg",
+    "signature_trait": "agreeableness",
+    "signature_traits": [
+      "agreeableness",
+      "conscientiousness"
+    ]
+  },
+  {
+    "id": "hermione-granger",
+    "name_ar": "هيرميون غرينجر",
+    "name_en": "Hermione Granger",
+    "work": "Harry Potter",
+    "type": "book",
+    "scores": {
+      "extraversion": 0.379,
+      "neuroticism": 0.544,
+      "agreeableness": 0.428,
+      "conscientiousness": 0.436,
+      "openness": 0.553
+    },
+    "quotes": [
+      "When in doubt, go to the library.",
+      "It's LeviOsa, not LevioSA.",
+      "Books! And cleverness! There are more important things — friendship and bravery."
+    ],
+    "psychology": {
+      "origin": "هيرميون من عائلة \"مَغَل\" غير ساحرة، وهذا خلق فيها شعور دائم بالحاجة لإثبات جدارتها بعالم السحر اللي دخلته لاحقاً، خصوصاً وسط تمييز طبقي واضح ضد أصلها.",
+      "traits": [
+        "تفرط بالتحضير والدراسة لأنها لا تثق تماماً إن الموهبة وحدها كافية لتُقبل بمكانها.",
+        "تصحح الأخطاء بصوت عالٍ حتى لو أزعج الآخرين، لأن الدقة عندها وسيلة أمان نفسي.",
+        "إحساسها القوي بالعدالة نابع من تجربتها الشخصية كـ\"مختلفة\" ومُستبعدة جزئياً.",
+        "ولاؤها لأصدقائها راسخ جداً لأنهم أول من قبلوها كما هي بلا شرط.",
+        "خوفها من الفشل يجعلها أحياناً متصلبة وغير قادرة على تقبّل الحلول غير المنطقية أو العاطفية."
+      ],
+      "conclusion": "هيرميون غرينجر بنت تفوقها كدرع ضد شعور دائم بأنها \"دخيلة\" على عالم لم تولد فيه، ورحلتها هي تعلّمها إن انتماءها ما كان يوماً بحاجة لإثبات."
+    },
+    "cover_url": "https://covers.openlibrary.org/b/id/15155833-L.jpg",
+    "signature_trait": "neuroticism",
+    "signature_traits": [
+      "neuroticism",
+      "conscientiousness"
+    ]
+  },
+  {
+    "id": "atticus-finch",
+    "name_ar": "أتيكوس فينش",
+    "name_en": "Atticus Finch",
+    "work": "To Kill a Mockingbird",
+    "type": "book",
+    "scores": {
+      "extraversion": 0.405,
+      "neuroticism": 0.472,
+      "agreeableness": 0.474,
+      "conscientiousness": 0.394,
+      "openness": 0.567
+    },
+    "quotes": [
+      "You never really understand a person until you consider things from his point of view.",
+      "The one thing that doesn't abide by majority rule is a person's conscience.",
+      "Real courage is when you know you're licked before you begin, but you begin anyway."
+    ],
+    "psychology": {
+      "origin": "أتيكوس فينش محامٍ أرمل يربي طفلين وحده بجنوب أمريكا بفترة الفصل العنصري، وقيمه الأخلاقية الثابتة تشكلت كموقف واعٍ ضد بيئة اجتماعية تطبّع الظلم يومياً.",
+      "traits": [
+        "يفصل بين رأيه الشخصي وواجبه الأخلاقي؛ يدافع عمن يستحق الدفاع بغض النظر عن رأي المجتمع.",
+        "يربي أطفاله بنفس المعايير اللي يطبقها على نفسه، بلا ازدواجية بين الكلام والفعل.",
+        "شجاعته هادئة وغير استعراضية؛ يواجه غضب المجتمع بثبات بدل الصراخ أو المواجهة العلنية.",
+        "يرفض الحكم على الناس دون فهم دوافعهم الحقيقية، ويعلّم أطفاله نفس المبدأ.",
+        "التزامه بمبادئه حتى حين يعرف إنه سيخسر يعكس فهمه إن قيمة الموقف مو بالضرورة بالفوز."
+      ],
+      "conclusion": "أتيكوس فينش نموذج للشجاعة الأخلاقية الهادئة — رجل يواجه ظلم مجتمعه كامل ببساطة ووضوح، ويربي أطفاله على نفس القيم رغم الثمن الشخصي."
+    },
+    "cover_url": "https://covers.openlibrary.org/b/id/14351077-L.jpg",
+    "signature_trait": "agreeableness",
+    "signature_traits": [
+      "agreeableness",
+      "neuroticism"
+    ]
+  },
+  {
+    "id": "heathcliff",
+    "name_ar": "هيثكليف",
+    "name_en": "Heathcliff",
+    "work": "Wuthering Heights",
+    "type": "book",
+    "scores": {
+      "extraversion": 0.513,
+      "neuroticism": 0.492,
+      "agreeableness": 0.505,
+      "conscientiousness": 0.506,
+      "openness": 0.71
+    },
+    "quotes": [
+      "I cannot live without my life! I cannot live without my soul!",
+      "Be with me always, take any form, drive me mad.",
+      "I have not broken your heart, you have broken it, and in breaking it, you have broken mine."
+    ],
+    "psychology": {
+      "origin": "هيثكليف يتيم تبناه عائلة إيرنشو، لكن بعد موت الأب تحول لخادم يُهان ويُذل من الابن هيندلي. هذا الإذلال المستمر بطفولته زرع فيه رغبة انتقام لا تنطفئ طوال حياته.",
+      "traits": [
+        "يخلط بين الحب والانتقام لدرجة يصعب فيها الفصل بينهما؛ حبه لكاثرين متشابك تماماً مع رغبته بتدمير من أهانوه.",
+        "يحمل الضغينة لعقود دون أي محاولة للتصالح أو المسامحة، ويعتبر ذلك ضعفاً.",
+        "يكرر دورة الإذلال اللي عاشها على الجيل التالي بدل ما يكسرها.",
+        "شدة عاطفته، حباً وكرهاً، تتجاوز الحدود العادية للمشاعر الإنسانية، تقريباً حد الهوس.",
+        "عودته ثرياً ومتغيراً بعد غيابه كانت بالكامل مشروع انتقام مخطط له بدقة وصبر شديدين."
+      ],
+      "conclusion": "هيثكليف يوضح كيف يتحول طفل مُهان إلى بالغ لا يعرف غير لغة الانتقام — حبه الحقيقي لكاثرين كان الشيء الوحيد اللي لم يستطع تدميره، حتى وهو يدمّر كل من حوله."
+    },
+    "cover_url": "https://covers.openlibrary.org/b/id/12818862-L.jpg",
+    "signature_trait": "openness",
+    "signature_traits": [
+      "openness",
+      "extraversion"
+    ]
+  },
+  {
+    "id": "dexter-morgan",
+    "name_ar": "ديكستر مورغان",
+    "name_en": "Dexter Morgan",
+    "work": "Dexter",
+    "type": "series",
+    "scores": {
+      "extraversion": 0.422,
+      "neuroticism": 0.399,
+      "agreeableness": 0.485,
+      "conscientiousness": 0.435,
+      "openness": 0.54
+    },
+    "quotes": [
+      "I'm not a monster. I'm something else.",
+      "Harry's code: never kill an innocent.",
+      "Blood. Sometimes it sets my teeth on edge. Other times it helps me control the chaos."
+    ],
+    "psychology": {
+      "origin": "تعرّض ديكستر لصدمة نفسية قوية جداً وهو طفل بعد مقتل والدته أمامه بطريقة وحشية، وهذا الحدث أثّر بشكل جذري على تطوره النفسي وترك فيه فراغاً عاطفياً عميقاً.",
+      "traits": [
+        "لا يشعر بالمشاعر مثل أغلب الناس؛ تعاطفه محدود ويجد صعوبة حقيقية في تكوين روابط طبيعية.",
+        "عنده رغبة شديدة ومتكررة بالقتل، يسميها هو نفسه \"الراكب المظلم\" (Dark Passenger).",
+        "والده بالتبني هاري وضع له قانوناً صارماً: إذا اضطر للقتل، فلا يقتل إلا مجرمين أفلتوا من العدالة، ولا يترك أي دليل خلفه.",
+        "يقلّد تعبيرات الناس (الابتسام، الحزن، الحب) عمداً حتى يبدو طبيعياً أمامهم، لأنه يشعر بالاختلاف التام عنهم.",
+        "مع مرور الوقت يبدأ يطوّر مشاعر حقيقية تجاه أخته وابنه وبعض المقربين، فهو ليس عديم المشاعر بالكامل رغم كل شيء."
+      ],
+      "conclusion": "ديكستر مورغان شخصية تعيش صراعاً دائماً بين جانب مظلم يدفعه للقتل وجانب آخر يحاول جاهداً أن يكون إنساناً طبيعياً — وهذا الصراع بالذات هو جوهر شخصيته الحقيقي."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+    "signature_trait": "agreeableness",
+    "signature_traits": [
+      "agreeableness",
+      "conscientiousness"
+    ]
+  },
+  {
+    "id": "monica-geller",
+    "name_ar": "مونيكا غيلر",
+    "name_en": "Monica Geller",
+    "work": "Friends",
+    "type": "series",
+    "scores": {
+      "extraversion": 0.426,
+      "neuroticism": 0.539,
+      "agreeableness": 0.426,
+      "conscientiousness": 0.492,
+      "openness": 0.62
+    },
+    "quotes": [
+      "I know! I KNOW!",
+      "Welcome to the real world! It sucks. You're gonna love it.",
+      "Rules help control the fun!"
+    ],
+    "psychology": {
+      "origin": "مونيكا نشأت تقارَن باستمرار بأخيها روس منذ الطفولة، ووُصفت بأنها كانت طفلة تعاني من زيادة الوزن وتعرّضت لتعليقات مؤذية بسبب ذلك، وهذا شكّل لديها حاجة دائمة للإثبات والتميّز والسيطرة على محيطها.",
+      "traits": [
+        "شخصية منظمة جداً وتحب أن يكون كل شيء مرتباً وتحت السيطرة الكاملة.",
+        "تنافسية للغاية؛ تكره الخسارة حتى في أبسط الألعاب العائلية البسيطة.",
+        "تسعى للكمال بشكل دائم، ولهذا تضغط على نفسها كثيراً في كل شيء تقريباً.",
+        "تهتم بالآخرين وتعبّر عن حبها بشكل ملموس من خلال الطبخ والاهتمام بالتفاصيل ومساعدتهم عملياً.",
+        "بسبب تجاربها بالطفولة ومقارنتها المستمرة بأخيها روس، أصبحت تبحث عن الإنجاز والإثبات بشكل شبه دائم."
+      ],
+      "conclusion": "مونيكا غيلر ليست مهووسة بالنظافة والترتيب فقط، بل هي شخص يستخدم النظام والسيطرة ليشعر بالأمان والنجاح. قلبها طيب فعلاً، لكن سعيها الدائم للكمال يجعلها أحياناً متوترة ومسيطرة قليلاً على من حولها."
+    },
+    "cover_url": "https://image.tmdb.org/t/p/w780/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+    "signature_trait": "conscientiousness",
+    "signature_traits": [
+      "conscientiousness",
+      "neuroticism"
+    ]
+  }
+]
