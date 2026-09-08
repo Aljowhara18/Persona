@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://persona-x8me.onrender.com";
 
 async function handle(response) {
   if (!response.ok) {
