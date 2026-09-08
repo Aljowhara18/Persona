@@ -7,7 +7,7 @@ app = FastAPI(title="Persona Archive API")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # عنوان Vite dev server
+allow_origins=["http://localhost:5173"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
